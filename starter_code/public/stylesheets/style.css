@@ -1,7 +1,6 @@
 body {
   margin: 0;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
 
 a {
   color: #00B7FF;
@@ -11,14 +10,12 @@ a {
   font-size: 15px;
   padding: 15px 25px;
   width: 150px;
-  text-align: center;
-}
+  text-align: center; }
 
 h1 {
   font-size: 100px;
   color: white;
-  margin: 0;
-}
+  margin: 0; }
 
 .home-container {
   background-image: url(../images/cinema.jpg);
@@ -26,5 +23,6 @@ h1 {
   background-size: cover;
   min-height: 100vh;
   display: flex;
-  flex-direction: column;
-}
+  flex-direction: column; }
+
+/*# sourceMappingURL=style.css.map */
